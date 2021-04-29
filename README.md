@@ -1,5 +1,7 @@
 ﻿# Analisis de dataset de videojuegos con Regression Lineal y metodos de regularizacion
  
+Proyecto para Lenguajes modernos de programación. (Enero-Junio de 2020).
+ 
  ### El proyecto se divide en 2 partes
  
  ## I. Explicacion e intuicion detras de los métodos, utilizando pocos datos
